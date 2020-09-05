@@ -19,5 +19,5 @@
        t.datetime "birthdate"
      end
 
-   
+
 end
